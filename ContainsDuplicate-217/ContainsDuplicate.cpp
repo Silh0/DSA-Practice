@@ -21,4 +21,9 @@ public:
 - check if value already exists in map
 - if not, add value to map
 - move on
+
+Adding some more comments because I just changed my commit email the noreply one that github provides. I need the contributions
+graph to start filling up for my own personal satisfaction ;;
+
+Here's hoping it works.
 */
